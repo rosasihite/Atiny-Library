@@ -62,6 +62,6 @@
  <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
     <br><footer style="background-color: rgb(185, 51, 51); text-align: center; ">
       <p>&copy;  by Rosa Agustina Sihite (210709072) </p>
-     </footer></br>
+     </footer>
 </body>
 </html>
